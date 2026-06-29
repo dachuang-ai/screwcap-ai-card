@@ -1,0 +1,6 @@
+{
+  "name": "螺絲帽 AI 戰隊 - 精品電子名片",
+  "description": "手機優先的精品極簡風 AI 整合顧問電子名片，提供網站建置、品牌內容、LINE 官方帳號與 AI 自動化諮詢服務。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
